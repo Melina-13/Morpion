@@ -38,11 +38,6 @@ Un jeu de morpion interactif en JavaScript, stylisé avec CSS, et structuré aut
 - **CSS3** : design responsive et animations
 - **JavaScript (ES6 modules)** : logique du jeu encapsulée dans une classe
 
-## 📸 Aperçu
-
-![Screenshot du jeu Morpion](https://via.placeholder.com/800x400?text=Capture+du+jeu+Morpion)
-
-_(Ajoute une capture d'écran réelle ici si tu veux)_
 
 ## 🔧 À venir (suggestions d’amélioration)
 
@@ -52,8 +47,5 @@ _(Ajoute une capture d'écran réelle ici si tu veux)_
 - Mode sombre/clair
 - Animation de victoire
 
-## 👤 Auteur
-
-**Ton prénom / pseudo**
 
 > Ce projet a été réalisé dans un but pédagogique et ludique.
